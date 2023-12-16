@@ -9,4 +9,4 @@
 - Hasil prediksi sesuai dengan label sebenarnya, dengan tingkat akurasi yang dihasilkan untuk data latih (training) sebesar 96.428%. Sementara akurasi yang dihasilkan untuk data uji (testing) sebesar 98.214%. Sehingga, metode Naïve Bayes terbukti efektif dalam memprediksi pola konsumsi energi listrik pada kedua gardu induk.
 - Membentuk tim sebanyak 2 orang
 - Membuat Artikel Penelitian
-- 	Berhasil menyelesaikan tugas akhir dengan tepat waktu dan mendapatkan nilai A dengan indeks 4.00
+- Berhasil menyelesaikan tugas akhir dengan tepat waktu dan mendapatkan nilai A dengan indeks 4.00
